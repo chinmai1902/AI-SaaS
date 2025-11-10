@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../chat_app/chat_app"
+		},
+		{
+			"path": "../../chat_app/node_modules"
+		},
+		{
+			"path": "../../chat_app/server"
+		}
+	]
+}
